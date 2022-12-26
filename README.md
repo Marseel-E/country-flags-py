@@ -19,4 +19,4 @@ import asyncio
 if __name__ == '__main__':
   asyncio.run(main())
 ```
-![example_output](https://github.com/Marseel-E/country-flags-py/blob/main/countryflags/usa.png)
+![example_output](https://github.com/Marseel-E/country-flags-py/blob/main/usa.png)
